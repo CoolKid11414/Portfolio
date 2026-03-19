@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Eithin Pero"
+title: "Lucas Miller"
 author_profile: true
 
 
