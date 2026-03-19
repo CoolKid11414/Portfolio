@@ -1,5 +1,5 @@
 ---
-title: "Digital Image Correlation for Modal and Material Characterization"
+title: "Building stuff"
 excerpt: >
   <strong>Type:</strong> Laboratory Systems Development<br>
   <strong>Role:</strong> Experimental Setup & Validation Lead<br>
@@ -9,19 +9,11 @@ excerpt: >
 collection: portfolio
 ---
 
-Over the Summer and into the Fall of 2025, I had the pleasure of working in the Aerospace Structures and Materials Engineering (ASME) Lab at Carleton University under the supervision of Professor Mostafa El Sayed for a directed studies endeavor. The scope of the project was to understand the fundamentals of machine vision for DIC applications and the practical considerations for usage of these systems through the experimental setup and data aquisition from two DIC systems: 
-* A high-speed stereo camera system for modal characterization of an aluminum plane wing specimen, and
-* A stereo camera system for material characterization of specimen undergoing cyclic fatigue in an MTS system
+I will talk about my building stuff.
 
-Over the course of the semester, I produced a detailed manual on the setup and considerations for the application of the high-speed DIC system, including data aquisition and post-processing with the GOM Professional suite of tools. My work culminated with a successful modal characterization experiment with a colleague requiring the data for his Masters Thesis.
-For the material characterization system, much work was completed regarding the theoretical background for additional considerations for this system. Phase stepping for framerate limitations, data bandwidth for real time data transfer, and storage solutions were tested, analyzed, and refined for the eventual application of the system.
+* Bullets:
+    * Sub bullets
 
-* Notable Contributions Include:
-    * Configured an oscilloscope and impact hammer to record the aluminum specimen strike data
-    * Developed a MATLAB script to convert the oscilloscope time-voltage data into the frequency domain with a Fast Fourier Transform
-    * Quantified the systems noise-floor (threshold value of a quantity below which measurements are indistinguishable from noise)
-    * Performed a bandwidth study on the hardware for the real-time transfer of aquired data 
-    * Produced a comprehensive technical report on Digital Image Correlation and the experimental results
 
 ## Image Gallery
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
