@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Portfolio"
 title_separator          : "-"
-name                     : &name "Eithin Pero"
-description              : &description "Aerospace engineering graduate focused on structures, subsystem ownership, and system validation."
+name                     : &name "Lucas Miller"
+description              : &description "Architectural Engineering with a passion for tinkering with electronics and woodworking"
 url                      : https://www.lucasmiller.ca # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CoolKid11414/Portfolio"
@@ -22,14 +22,14 @@ repository               : "CoolKid11414/Portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal/ring.jpeg"
-  name             : "Eithin Pero"
+  avatar           : "personal/lucas.jpeg"
+  name             : "Lucas Miller"
   pronouns         : # example: "she/her"  
-  bio              : Aerospace engineering graduate focused on structures, subsystem ownership, and system validation.
-  location         : "Ottawa, Ontario"
+  bio              : Architectural Engineering Student. Electronics tinkerer. Woodworking enthusiast.
+  location         : "Kingston, Ontario"
   employer         : #"Carleton University"
   uri              : # URL
-  email            : "eithin@eithinpero.com" 
+  email            : "l.c.miller@icloud.com" 
 
   # Academic websites
   #academia         : # URL
@@ -60,9 +60,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : made_by_miller_2024
   lastfm           : # Username
-  linkedin         : eithinpero
+  linkedin         : lucas-miller-825b162aa
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
