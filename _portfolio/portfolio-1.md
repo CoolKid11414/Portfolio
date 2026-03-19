@@ -1,5 +1,5 @@
 ---
-title: "Building stuff"
+title: "Building stuff meow"
 excerpt: >
   <strong>Type:</strong> Laboratory Systems Development<br>
   <strong>Role:</strong> Experimental Setup & Validation Lead<br>
