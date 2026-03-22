@@ -5,7 +5,7 @@ excerpt: >
   <strong>Involvement:</strong> Team Member -> Team Captain (3 years)<br>
   <strong>Focus:</strong> Structural optimization, competition preparation, team coordination<br>
   <strong>Outcome:</strong> Led 6-member student team to national competition, received sponsership from GUM
-collection: extracurriculars
+collection: MadeByMiller
 ---
 
 

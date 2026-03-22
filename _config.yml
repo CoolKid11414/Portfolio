@@ -232,7 +232,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  extracurriculars:
+  MadeByMiller:
     output: true
     permalink: /:collection/:path/
 
