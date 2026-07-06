@@ -27,7 +27,7 @@ feature_row3:
   
 ---
 
-Architectural Engineering Student. I like cats.
+Architectural Conservation and Sustainability Engineering Graduate. I like cats.
 
 For more background, you can read more [about me](/about/).
 
