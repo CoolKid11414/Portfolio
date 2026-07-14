@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-[View my CV in .pdf here](/files/LucasMiller.pdf)
+[View my CV in .pdf here](/files/Lucas Miller Resume 2026.pdf)
 
 Education
 ======
-* B.Eng. in Architectural Engineering, Carleton University
+* B.Eng. in Architectural Conservation and Sustainability Engineering, Carleton University
 
 Work experience
 ======
-* May 2025 - Present: WORK EXPERIENCE 1
-  EMPLOYER, LOCATION
+* May - August 2025: Contract Administrator
+  Infrastructure & Water Services Department, Ottawa, ON
   * Bullet 1
   * Bullet 2
 
