@@ -3,9 +3,6 @@ permalink: /MadeByMiller/
 title: "Made By Miller"
 author_profile: true
 
-
-
-
 feature_row:
   - image_path: personal/lucas_full.jpeg
     alt: "me"
@@ -19,5 +16,5 @@ feature_row:
     alt: "my buddy"
     title: ""
     excerpt: ""
-collection: gallery
+
 ---
