@@ -7,8 +7,8 @@ author_profile: true
 feature_row:
   - image_path: personal/lucas_full.jpeg
     alt: "me"
-    title: ""
-    excerpt: ""
+    title: "Title"
+    excerpt: "Excerpt"
   - image_path: personal/cat.jpeg
     alt: "i like cat"
     title: ""
