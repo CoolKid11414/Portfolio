@@ -4,7 +4,7 @@ title: "Made By Miller"
 author_profile: true
 
 title: "Chaos Cutting Board"
-collection: portfolio
+collection: MadeByMIller
 
 
 feature_row:

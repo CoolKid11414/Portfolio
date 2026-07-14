@@ -6,7 +6,7 @@ excerpt: >
   <strong>Focus:</strong> Fully clean the mechanical system then determine possible issues <br>
   <strong>Outcome:</strong> Determined that four springs were missing causing the machine to not pay out <br>
   <img src="/images/SlotMachine/WebsiteSS.png" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
-collection: personal
+collection: MiniProjects
 header:
     teaser: /images/SlotMachine/WebsiteSS.png
 ---

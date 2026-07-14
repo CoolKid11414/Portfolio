@@ -5,7 +5,7 @@ excerpt: >
   <strong>Involvement:</strong> Team Member (2 years) -> Team Captain <br>
   <strong>Focus:</strong> Structural optimization, competition preparation, team coordination<br>
   <strong>Outcome:</strong> Led 6-member student team to national competition, received sponsership from GUM
-collection: portfolio
+collection: TechnicalProjects
 ---
 
 

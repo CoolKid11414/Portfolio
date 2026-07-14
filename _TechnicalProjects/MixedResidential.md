@@ -5,7 +5,7 @@ excerpt: >
   <strong>Role:</strong> HVAC Designer <br>
   <strong>Focus:</strong> Designed HVAC schematic and various section drawings <br>
   <strong>Outcome:</strong> Developed drawings for complete mixed residential building including all system schematics
-collection: portfolio
+collection: TechnicalProjects
 ---
 
 
