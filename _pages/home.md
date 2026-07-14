@@ -21,8 +21,8 @@ feature_row2:
 feature_row3:
   - image_path: personal/lucas_eithin.jpeg
     alt: "16-month coop at collins aerospace"
-    title: "Me and my buddy"
-    excerpt: "He made this website. Meow. First shotgun!."
+    title: "Contract Administrator (4-Month Engineering Co-op)"
+    excerpt: "Oversaw road rehabilitation projects across Ottawa and ensured that the contractors would stay on target."
     url: /cv/
   
 ---
