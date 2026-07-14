@@ -1,5 +1,5 @@
 ---
-title: "Building stuff meow"
+title: "Troitsky Competition 2026"
 excerpt: >
   <strong>Type:</strong> Laboratory Systems Development<br>
   <strong>Role:</strong> Experimental Setup & Validation Lead<br>
