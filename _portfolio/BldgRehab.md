@@ -6,7 +6,7 @@ excerpt: >
   <strong>Focus:</strong> Control surface actuation, NLG/MLG design, steering implementation<br>
   <strong>Outcome:</strong> Designed, integrated, and tested flight-ready subsystems<br>
   <img src="/images/bwb/BWBFullPic.png" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
-collection: TechnicalProjects
+collection: portfolio
 ---
 
 Throughout this project, I was responsible for material and systems audits where I would first document the site through photos and notes, then I would compile it all stating what state it was all in, and if it needed repair or replacement. 

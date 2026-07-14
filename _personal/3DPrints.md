@@ -6,7 +6,7 @@ excerpt: >
   <strong>Focus:</strong> Solve everyday problems I was facing <br>
   <strong>Outcome:</strong> Designed, developed, and iterated upon 3D prints to optimize the solution I was going for <br>
   <img src="/images/3DPrints/WebsiteSS.png" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
-collection: MiniProjects
+collection: personal
 header:
     teaser: /images/3DPrints/WebsiteSS.png
 ---
