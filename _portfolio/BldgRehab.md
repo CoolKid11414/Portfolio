@@ -1,5 +1,5 @@
 ---
-title: "Blended Wing-Body Capstone Project"
+title: "521 Sussex Dr Rehabilitation Project"
 excerpt: >
   <strong>Type:</strong> Aerospace Systems Capstone<br>
   <strong>Role:</strong> Systems Engineer (Subsystem Owner)<br>

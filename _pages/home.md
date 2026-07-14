@@ -11,7 +11,7 @@ feature_row:
     alt: "Sustainable and Energy-Efficient Agricultural Facility"
     title: "Capstone Design Project"
     excerpt: "Sustainable and Energy-Efficient Agricultural Facility"
-    url: /portfolio/portfolio-1/
+    url: /portfolio/Capstone/
 feature_row2:
   - image_path: personal/lucas_full.jpeg
     alt: "Troitsky Competition 2026"
