@@ -19,7 +19,7 @@ feature_row2:
     excerpt: "Meow."
     url: /portfolio/portfolio-2/
 feature_row3:
-  - image_path: personal/lucas_eithin.jpeg
+  - image_path: personal/CA_2025.jpeg
     alt: "16-month coop at collins aerospace"
     title: "Contract Administrator (4-Month Engineering Co-op)"
     excerpt: "Oversaw road rehabilitation projects across Ottawa and ensured that the contractors would stay on target."
@@ -27,7 +27,7 @@ feature_row3:
   
 ---
 
-Architectural Conservation and Sustainability Engineering Graduate. I like cats.
+Architectural Conservation and Sustainability Engineering Graduate.
 
 For more background, you can read more [about me](/about/).
 
