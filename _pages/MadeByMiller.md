@@ -20,6 +20,6 @@ feature_row:
 
 ---
 
-My name Lucas. I like cats.
+All of these projects I have made over the past few years. 
 
 {%include feature_row %}
