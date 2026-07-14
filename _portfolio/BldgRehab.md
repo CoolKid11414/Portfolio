@@ -8,6 +8,10 @@ excerpt: >
   <img src="/images/bwb/BWBFullPic.png" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
 collection: portfolio
 ---
+
+Throughout this project, I was responsible for material and systems audits where I would first document the site through photos and notes, then I would compile it all stating what state it was all in, and if it needed repair or replacement. 
+
+
 TO BE DELETED 
 
 Through the 2024-2025 academic year, I was in a team of 17 members to design, analyse, and build a blended wing-body UAV drone. My personal role was that of the Systems Engineer, with many responsibilities in this interdisciplinary team. Core responsibilities and contributions include: 
