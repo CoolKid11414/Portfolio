@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View my CV in .pdf here](/files/Lucas%20Miller%20Resume%202026.pdf)
+[View my CV in .pdf here](/files/LucasMillerResume2026WithoutNumber.pdf)
 
 Education
 ======

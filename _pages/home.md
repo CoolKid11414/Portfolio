@@ -44,5 +44,5 @@ For more projects, feel free to browse my [Technical Projects](/Technical-Projec
 
 Resume
 ------
-[Download CV](/files/Lucas%20Miller%20Resume%202026.pdf)
+[Download CV](/files/LucasMillerResume2026WithoutNumber.pdf)
 
