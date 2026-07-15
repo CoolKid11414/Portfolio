@@ -25,7 +25,7 @@ author:
   avatar           : "personal/lucas.jpeg"
   name             : "Lucas Miller"
   pronouns         : # example: "she/her"  
-  bio              : Architectural Engineering Student. Electronics tinkerer. Woodworking enthusiast.
+  bio              : Architectural Engineering Graduate. Electronics tinkerer. Custom woodworker.
   location         : "Kingston, Ontario"
   employer         : #"Carleton University"
   uri              : # URL
@@ -232,7 +232,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  MadeByMiller:
+  madebymiller:
     output: true
     permalink: /:collection/:path/
 
