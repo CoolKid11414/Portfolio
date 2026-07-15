@@ -8,7 +8,7 @@ excerpt: >
   <img src="/images/website/WebsiteSS.png" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
 collection: personal
 header:
-    teaser: /images/website/WebsiteSS.png
+    teaser: /images/Website/WebsiteSS.png
 ---
 I have had the idea to create a portfolio website under my own name for years and am currently making my vision a reality. For interviews I have always been the type to carry around a portfolio file to provide a visual look into my work and a website allows me to do this from anywhere.
 
