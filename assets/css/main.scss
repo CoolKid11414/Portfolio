@@ -68,3 +68,40 @@
   text-decoration: none;
 }
 
+/* =========================================================
+   Made By Miller project grid
+   ========================================================= */
+
+.madebymiller-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.project-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+  border-radius: 8px;
+}
+
+.project-card h3 {
+  margin-top: 0.75rem;
+}
+
+.project-card p {
+  margin-top: 0.25rem;
+}
+
+@media (max-width: 900px) {
+  .madebymiller-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .madebymiller-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
