@@ -39,7 +39,7 @@ projects:
     title: ""
     excerpt: "Chaos Cutting Board (2025)"
 
-  - image_path: personal/lucas_full.jpeg
+  - image_path: /personal/lucas_full.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Salamander (2025)"
