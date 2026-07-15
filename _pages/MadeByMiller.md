@@ -6,15 +6,15 @@ author_profile: true
 feature_row:
   - image_path: personal/lucas_full.jpeg
     alt: "me"
-    title: "Title"
+    title: "Title1"
     excerpt: "Excerpt"
   - image_path: personal/cat.jpeg
     alt: "i like cat"
-    title: ""
+    title: "Title2"
     excerpt: ""
   - image_path: personal/lucas_eithin.jpeg
     alt: "my buddy"
-    title: ""
+    title: "Title3"
     excerpt: ""
 
 ---
