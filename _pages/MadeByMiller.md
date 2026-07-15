@@ -13,7 +13,7 @@ projects:
     title: ""
     excerpt: "Woven Cutting Boards (2026)"
 
-  - image_path: /images/MadeByMiller/2026/StainedGlassFigureSkaters/figureskater.jpg
+  - image_path: /images/MadeByMiller/2026/StainedGlassFigureSkaters/figureskater.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Figure Skaters (2026)"
