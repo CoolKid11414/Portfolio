@@ -4,37 +4,37 @@ title: "Made By Miller"
 author_profile: true
 
 projects:
-  - image_path: personal/cat.jpeg
+  - image_path: /images/personal/cat.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Golfers (2026)"
-  - image_path: personal/lucas_eithin.jpeg
+  - image_path: /images/personal/lucas_eithin.jpeg
     alt: "cutting boards"
     title: ""
     excerpt: "Woven Cutting Boards (2026)"
 
-  - image_path: personal/lucas_full.jpeg
+  - image_path: /images/personal/lucas_full.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Figure Skaters (2026)"
-  - image_path: personal/cat.jpeg
+  - image_path: /images/personal/cat.jpeg
     alt: "artfest"
     title: ""
     excerpt: "Cutting Boards (2026)"
-  - image_path: personal/lucas_eithin.jpeg
+  - image_path: /images/personal/lucas_eithin.jpeg
     alt: "mirror"
     title: ""
     excerpt: "Stained Glass Mirror (2026)"
 
-  - image_path: personal/lucas_full.jpeg
+  - image_path: /images/personal/lucas_full.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Aurora (2025)"
-  - image_path: personal/cat.jpeg
+  - image_path: /images/personal/cat.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Mosaic (2025)"
-  - image_path: personal/lucas_eithin.jpeg
+  - image_path: /images/personal/lucas_eithin.jpeg
     alt: "cutting board"
     title: ""
     excerpt: "Chaos Cutting Board (2025)"
