@@ -3,7 +3,7 @@ permalink: /MadeByMiller/
 title: "Made By Miller"
 author_profile: true
 
-feature_row:
+feature_row1:
   - image_path: personal/lucas_full.jpeg
     alt: "me"
     title: "Title1"
@@ -16,7 +16,8 @@ feature_row:
     alt: "my buddy"
     title: "Title3"
     excerpt: ""
-feature_row:
+
+feature_row2:
   - image_path: personal/lucas_full.jpeg
     alt: "me"
     title: "Title4"
