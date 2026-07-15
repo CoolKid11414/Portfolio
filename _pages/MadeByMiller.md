@@ -18,3 +18,7 @@ feature_row:
     excerpt: ""
 
 ---
+
+These are all things that I have made over the past few years
+
+{% include feature_row %}
