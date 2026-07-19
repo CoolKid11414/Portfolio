@@ -47,7 +47,7 @@ projects:
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Thistle (2025)"
-  - image_path: /images/MadeByMiller/2026/WeaveBoard/weave.jpeg
+  - image_path: /images/MadeByMiller/2024/WeaveBoard/weave.jpeg
     alt: "cutting board"
     title: ""
     excerpt: "Weave Cutting Board (2024)"
