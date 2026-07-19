@@ -1,7 +1,7 @@
 ---
 permalink: /MadeByMiller/
 title: "Made By Miller"
-author_profile: true
+author_profile: false
 classes: wide
 
 projects:
