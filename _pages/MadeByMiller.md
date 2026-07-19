@@ -20,34 +20,34 @@ projects:
   - image_path: /images/personal/cat.jpeg
     alt: "artfest"
     title: ""
-    excerpt: "Cutting Boards (2026)"
-  - image_path: /images/personal/lucas_eithin.jpeg
+    excerpt: "Artfest (2026)"
+  - image_path: /images/MadeByMiller/2025/StainedGlassMirror/mirror.jpeg
     alt: "mirror"
     title: ""
     excerpt: "Stained Glass Mirror (2026)"
 
-  - image_path: /images/personal/lucas_full.jpeg
+  - image_path: /images/MadeByMiller/2025/StainedGlassAurora/aurora.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Aurora (2025)"
-  - image_path: /images/personal/cat.jpeg
+  - image_path: /images/MadeByMiller/2025/StainedGlassCircleMosaic/circles.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Mosaic (2025)"
-  - image_path: /images/personal/lucas_eithin.jpeg
+  - image_path: /images/MadeByMiller/2025/ChaosBoard/chaos.jpeg
     alt: "cutting board"
     title: ""
     excerpt: "Chaos Cutting Board (2025)"
 
-  - image_path: /images/personal/lucas_full.jpeg
+  - image_path: /images/MadeByMiller/2025/StainedGlassSalamander/salamander.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Salamander (2025)"
-  - image_path: /images/personal/cat.jpeg
+  - image_path: /images/MadeByMiller/2025/StainedGlassThistle/thistle.jpeg
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Thistle (2025)"
-  - image_path: /images/personal/lucas_eithin.jpeg
+  - image_path: /images/MadeByMiller/2026/WeaveBoard/weave.jpeg
     alt: "cutting board"
     title: ""
     excerpt: "Weave Cutting Board (2024)"
