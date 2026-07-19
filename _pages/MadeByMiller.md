@@ -166,11 +166,13 @@ These are all things that I have made over the past few years
 
 <div class="project-card">
 
-<img src="{{ project.image_path }}" alt="{{ project.alt }}">
+  <div class="project-image">
+    <img src="{{ project.image_path }}" alt="{{ project.alt }}">
+  </div>
 
-<h3>{{ project.title }}</h3>
+  <h3>{{ project.title }}</h3>
 
-<p>{{ project.excerpt }}</p>
+  <p>{{ project.excerpt }}</p>
 
 </div>
 
