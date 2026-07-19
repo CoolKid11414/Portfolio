@@ -2,6 +2,7 @@
 permalink: /MadeByMiller/
 title: "Made By Miller"
 author_profile: true
+classes: wide
 
 projects:
   - image_path: /images/personal/cat.jpeg
