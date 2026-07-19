@@ -21,7 +21,7 @@ projects:
     alt: "artfest"
     title: ""
     excerpt: "Artfest (2026)"
-  - image_path: /images/MadeByMiller/2025/StainedGlassMirror/mirror.jpeg
+  - image_path: /images/MadeByMiller/2026/StainedGlassMirror/mirror.jpeg
     alt: "mirror"
     title: ""
     excerpt: "Stained Glass Mirror (2026)"
