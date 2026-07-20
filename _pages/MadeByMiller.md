@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: gallery
 permalink: /MadeByMiller/
 title: "Made By Miller"
 author_profile: false
