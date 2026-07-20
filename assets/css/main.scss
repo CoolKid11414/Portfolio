@@ -111,3 +111,30 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* =========================================================
+   Gallery Layout
+   ========================================================= */
+
+.gallery-main {
+  max-width: 1700px;
+  margin: 2rem auto;
+  padding: 0 2rem;
+}
+
+.gallery-main .page {
+  width: 100%;
+  max-width: 100%;
+}
+
+.gallery-main .page__inner-wrap,
+.gallery-main .page__content {
+  width: 100%;
+  max-width: 100%;
+}
+
+.madebymiller-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+}
