@@ -76,6 +76,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 2rem;
+  align-items: start;
 }
 
 .project-card {
@@ -98,18 +99,7 @@
   margin-top: 1rem;
   font-size: 0.95rem;
   font-weight: 600;
-}
-
-@media (max-width: 900px) {
-  .madebymiller-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 600px) {
-  .madebymiller-grid {
-    grid-template-columns: 1fr;
-  }
+  line-height: 1.4;
 }
 
 /* =========================================================
@@ -122,19 +112,29 @@
   padding: 0 2rem;
 }
 
-.gallery-main .page {
-  width: 100%;
-  max-width: 100%;
-}
-
+.gallery-main .page,
 .gallery-main .page__inner-wrap,
 .gallery-main .page__content {
   width: 100%;
   max-width: 100%;
 }
 
-.madebymiller-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 2rem;
+/* =========================================================
+   Responsive Layout
+   ========================================================= */
+
+@media (max-width: 900px) {
+  .madebymiller-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .madebymiller-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-main {
+    padding: 0 1rem;
+  }
 }
