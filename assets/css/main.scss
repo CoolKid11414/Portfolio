@@ -69,14 +69,13 @@
 }
 
 /* =========================================================
-   Made By Miller project grid
+   Made By Miller
    ========================================================= */
 
 .madebymiller-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 2rem;
-  align-items: start;
 }
 
 .project-card {
@@ -99,7 +98,6 @@
   margin-top: 1rem;
   font-size: 0.95rem;
   font-weight: 600;
-  text-align: center;
 }
 
 @media (max-width: 900px) {
@@ -112,28 +110,4 @@
   .madebymiller-grid {
     grid-template-columns: 1fr;
   }
-}
-
-/* =========================================================
-   Made By Miller full-width override
-   ========================================================= */
-
-.page {
-  width: 100%;
-  max-width: 1400px;
-  margin: 0 auto;
-}
-
-.page__inner-wrap,
-.page__content {
-  width: 100%;
-  max-width: 100%;
-}
-
-/* =========================================================
-   Made By Miller page width
-   ========================================================= */
-
-.layout--single #main {
-  max-width: 1600px;
 }
