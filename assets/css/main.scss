@@ -69,13 +69,14 @@
 }
 
 /* =========================================================
-   Made By Miller
+   Made By Miller Gallery
    ========================================================= */
 
 .madebymiller-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 2rem;
+  justify-content: center;
   align-items: start;
 }
 
