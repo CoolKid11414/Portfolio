@@ -74,9 +74,12 @@
 
 .madebymiller-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(3, minmax(320px, 1fr));
+  gap: 2rem;
   align-items: start;
+  justify-content: center;
+  max-width: 1300px;
+  margin: 0 auto;
 }
 
 .project-card {
@@ -128,9 +131,4 @@
 .page__content {
   width: 100%;
   max-width: 100%;
-}
-
-.madebymiller-grid {
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
 }
