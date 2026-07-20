@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /MadeByMiller/
 title: "Made By Miller"
 author_profile: false
