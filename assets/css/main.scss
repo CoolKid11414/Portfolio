@@ -115,18 +115,22 @@
 }
 
 /* =========================================================
-   Made By Miller page width override
+   Made By Miller full-width override
    ========================================================= */
 
-.page__inner-wrap {
-  max-width: 1400px;
+.page {
   width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
 }
 
+.page__inner-wrap,
 .page__content {
+  width: 100%;
   max-width: 100%;
 }
 
 .madebymiller-grid {
   grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
 }
