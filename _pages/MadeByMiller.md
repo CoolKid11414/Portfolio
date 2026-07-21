@@ -151,7 +151,7 @@ projects:
     title: ""
     excerpt: "Upcycled Wooden Stool (2021)"
 
-  - image_path: /images/MadeByMiller/2021/StainedGlassCardinal/cardinal.png
+  - image_path: /images/MadeByMiller/2021/StainedGlassCardinal/cardinal.PNG
     alt: "stained glass"
     title: ""
     excerpt: "Stained Glass Cardinal (2021)"
@@ -171,7 +171,7 @@ projects:
     title: ""
     excerpt: "Copper Wire Tree (2019)"
 
-  - image_path: /images/MadeByMiller/2018/StainedGlassMosaic/mosaic.jpg
+  - image_path: /images/MadeByMiller/2018/StainedGlassMosaic/mosaic.JPG
     alt: "mosaic"
     title: ""
     excerpt: "Stained Glass Mosaic (2018)"
