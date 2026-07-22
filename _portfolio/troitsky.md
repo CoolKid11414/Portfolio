@@ -5,6 +5,7 @@ excerpt: >
   <strong>Involvement:</strong> Team Member (2 years) -> Team Captain <br>
   <strong>Focus:</strong> Structural optimization, competition preparation, team coordination<br>
   <strong>Outcome:</strong> Led 6-member student team to national competition, received sponsership from GUM
+  <img src="/images/Troitsky/troitsky.jpg" style="width:100%; max-width:520px; height:auto; border-radius:8px; margin-top:0.5rem;">
 collection: portfolio
 ---
 
@@ -16,3 +17,10 @@ The previous record that Carleton University had made was 950kg in 2024, and the
 
 
 More information coming soon!
+
+## Image Gallery
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/Troitsky/bridge.jpeg" alt="bridge during build day" width="1000">
+  <img src="/images/Troitsky/test1.jpeg" alt="floss testing strands" width="300">
+  <img src="/images/Troitsky/test2.jpeg" alt="floss testing pully system of floss" width="500">
+</div>

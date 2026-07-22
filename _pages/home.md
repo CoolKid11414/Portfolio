@@ -13,7 +13,7 @@ feature_row:
     excerpt: "Sustainable and Energy-Efficient Agricultural Facility"
     url: /portfolio/Capstone/
 feature_row2:
-  - image_path: personal/lucas_full.jpeg
+  - image_path: /images/Troitsky/troitsky.jpg
     alt: "Troitsky Competition 2026"
     title: "Troitsky Competition 2026"
     excerpt: "This bridge was constructed from wooden popsicle sticks, white construction glue, and GUM Dual-Defence Dental floss. It weighed roughly 8.6kg and supported 1850kg which came fourth overall for most weight supported, and broke the previous Carleton record by 900kg."
